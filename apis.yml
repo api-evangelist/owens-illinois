@@ -1,7 +1,12 @@
 aid: owens-illinois
-url: https://raw.githubusercontent.com/api-evangelist/owens-illinois/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/owens-illinois/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.owens-illinois.com
+description: >-
+  Owens-Illinois (now O-I Glass) is one of the world's leading manufacturers of glass
+  containers, supplying glass packaging to the food, beverage, beer, wine, spirits,
+  and pharmaceutical industries.
