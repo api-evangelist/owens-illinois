@@ -1,11 +1,39 @@
-# Owens-Illinois
+# Owens-Illinois (owens-illinois)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Owens-Illinois.
+Owens-Illinois (now O-I Glass) is one of the world's leading manufacturers of glass containers, supplying glass packaging to the food, beverage, beer, wine, spirits, and pharmaceutical industries. No public APIs or developer portal have been identified at this time.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/owens-illinois/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
+
+## Tags
+
+- Fortune 500, Glass, Packaging, Manufacturing, Containers
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Contributions welcome.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.owens-illinois.com)
+- [Website](https://www.o-i.com)
+- [About](https://www.o-i.com/about/)
+- [Investors](https://investors.o-i.com/)
+- [Careers](https://www.o-i.com/careers/)
+- [Catalog](https://www.glass-catalog.com)
+- [Contact](https://www.o-i.com/contact-us/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
