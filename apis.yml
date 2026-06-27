@@ -34,7 +34,7 @@ common:
     url: https://www.glass-catalog.com
   - type: Contact
     url: https://www.o-i.com/contact-us/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://o-i.com/llms.txt
 maintainers:
   - FN: Kin Lane
