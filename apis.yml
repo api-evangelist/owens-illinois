@@ -20,6 +20,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/owens-illinois-domain-security.yml
+  - url: https://www.o-i.com/news/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/o-i
   - type: Website
