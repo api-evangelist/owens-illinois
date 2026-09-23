@@ -1,7 +1,9 @@
 ---
 title: Investment analysis of Owens-Illinois Inc
 url: https://freedom24.com/ideas/details/14400
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens-Illinois" press release artificial intelligence'
 position: 3
 source: serpapi-google

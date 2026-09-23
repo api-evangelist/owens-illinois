@@ -1,7 +1,9 @@
 ---
 title: O-I Acquires Two Plants in Northern China
 url: https://www.prnewswire.com/news-releases/o-i-acquires-two-plants-in-northern-china-111810844.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens-Illinois" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Owens-Brockway prices $500M 9.5% notes due 2033 | OI ...
 url: https://www.stocktitan.net/news/OI/owens-brockway-glass-container-inc-announces-pricing-of-senior-notes-rl107swt51uh.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens-Illinois" press release artificial intelligence'
 position: 2
 source: serpapi-google

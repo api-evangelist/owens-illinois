@@ -1,7 +1,9 @@
 ---
 title: Financials - Quarterly Results | O-I Glass, Inc.
 url: https://investors.o-i.com/financials/quarterly-results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens-Illinois" press release artificial intelligence'
 position: 4
 source: serpapi-google
